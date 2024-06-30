@@ -12,3 +12,4 @@ C:\Users\Jchil\c projects\C#HelloNameConsole\obj\Debug\net8.0\refint\C#HelloName
 C:\Users\Jchil\c projects\C#HelloNameConsole\obj\Debug\net8.0\C#HelloNameConsole.pdb
 C:\Users\Jchil\c projects\C#HelloNameConsole\obj\Debug\net8.0\C#HelloNameConsole.genruntimeconfig.cache
 C:\Users\Jchil\c projects\C#HelloNameConsole\obj\Debug\net8.0\ref\C#HelloNameConsole.dll
+C:\Users\Jchil\c projects\C#HelloNameConsole\obj\Debug\net8.0\C#HelloNameConsole.sourcelink.json
