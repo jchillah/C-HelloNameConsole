@@ -1,0 +1,14 @@
+C:\Users\Jchil\c projects\C#HelloNameConsole\bin\Debug\net8.0\C#HelloNameConsole.exe
+C:\Users\Jchil\c projects\C#HelloNameConsole\bin\Debug\net8.0\C#HelloNameConsole.deps.json
+C:\Users\Jchil\c projects\C#HelloNameConsole\bin\Debug\net8.0\C#HelloNameConsole.runtimeconfig.json
+C:\Users\Jchil\c projects\C#HelloNameConsole\bin\Debug\net8.0\C#HelloNameConsole.dll
+C:\Users\Jchil\c projects\C#HelloNameConsole\bin\Debug\net8.0\C#HelloNameConsole.pdb
+C:\Users\Jchil\c projects\C#HelloNameConsole\obj\Debug\net8.0\C#HelloNameConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jchil\c projects\C#HelloNameConsole\obj\Debug\net8.0\C#HelloNameConsole.AssemblyInfoInputs.cache
+C:\Users\Jchil\c projects\C#HelloNameConsole\obj\Debug\net8.0\C#HelloNameConsole.AssemblyInfo.cs
+C:\Users\Jchil\c projects\C#HelloNameConsole\obj\Debug\net8.0\C#HelloNameConsole.csproj.CoreCompileInputs.cache
+C:\Users\Jchil\c projects\C#HelloNameConsole\obj\Debug\net8.0\C#HelloNameConsole.dll
+C:\Users\Jchil\c projects\C#HelloNameConsole\obj\Debug\net8.0\refint\C#HelloNameConsole.dll
+C:\Users\Jchil\c projects\C#HelloNameConsole\obj\Debug\net8.0\C#HelloNameConsole.pdb
+C:\Users\Jchil\c projects\C#HelloNameConsole\obj\Debug\net8.0\C#HelloNameConsole.genruntimeconfig.cache
+C:\Users\Jchil\c projects\C#HelloNameConsole\obj\Debug\net8.0\ref\C#HelloNameConsole.dll
